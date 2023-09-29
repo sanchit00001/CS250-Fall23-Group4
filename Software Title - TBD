@@ -6,4 +6,10 @@ System Description
   Brief overview of system
 
 Software Architecture Overview
-  
+  Architectural diagram of all major components
+  UML Class Diagram
+  Description of classes
+  Description of attributes
+  Description of operations
+*descriptions should be detailed and specify datatypes, function interfaces, parameters, etc.
+
