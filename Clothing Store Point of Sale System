@@ -8,7 +8,7 @@ System Description
 Software Architecture Overview
   Architectural diagram of all major components (TBD)
   UML Class Diagram (Adam Bui)
-  Description of classes (Adam Bui, TBD)
+  Description of classes (Adam Bui, Kyle Kucharski, TBD)
   Description of attributes (Adam Bui, Kyle Kucharski)
   Description of operations (Adam Bui, Kyle Kucharski)
 *descriptions should be detailed and specify datatypes, function interfaces, parameters, etc.
