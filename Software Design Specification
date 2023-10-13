@@ -1,18 +1,17 @@
 Title Page
   Clothing Store Point of Sale System
-  Team Members: Adam Bui, Kyle Kucharski, Sanchit Singh
+  Team Members: Sanchit Singh, Kyle Kucharski, Adam Bui
 
 System Description
-  Brief overview of system (Adam Bui)
+  Brief overview of system (Sanchit Singh and Adam Bui)
 
 Software Architecture Overview
   Architectural diagram of all major components (Sanchit Singh)
-  UML Class Diagram (Adam Bui and Sanchit Singh)
+  UML Class Diagram (Sanchit Singh)
   Description of classes (Kyle Kucharski)
   Description of attributes (Kyle Kucharski)
   Description of operations (Kyle Kucharski)
-*descriptions should be detailed and specify datatypes, function interfaces, parameters, etc.
 
 Development Plan and Timeline
-  Partitioning of Tasks (Adam Bui and Sanchit Singh)
-  Team Member Responsibilities (Adam Bui and Sanchit Singh)
+  Partitioning of Tasks (Adam Bui)
+  Team Member Responsibilities (Adam Bui)
